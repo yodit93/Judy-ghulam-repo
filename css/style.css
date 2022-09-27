@@ -19,3 +19,6 @@ body {
 .pageLogo {
   width: 250px;
 }
+@media screen {
+  min-width: 600px;
+}
